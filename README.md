@@ -84,6 +84,4 @@ This project aims to automate and streamline the railway ticket booking process.
 - Admins can manage trains and oversee reservations.
 - All operations are securely stored and updated in the MySQL database.
 
----
 
-###  Enjoy using your Online Train Reservation System!
