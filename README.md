@@ -1,6 +1,6 @@
-# 🚆 Online Train Reservation System
+#  Online Train Reservation System
 
-## 📌 Objective
+##  Objective
 
 The **Online Reservation System** is a Java Swing-based desktop application designed to let users:
 - Register and log in.
@@ -13,7 +13,7 @@ This project aims to automate and streamline the railway ticket booking process.
 
 ---
 
-## 🔨 Tools & Technologies
+##  Tools & Technologies
 
 - **Programming Language:** Java (JDK 8+)
 - **GUI:** Java Swing
@@ -23,7 +23,7 @@ This project aims to automate and streamline the railway ticket booking process.
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 1. **Database Design:**
    - Created MySQL tables for `users`, `trains`, and `reservations` with appropriate keys and constraints.
@@ -54,27 +54,7 @@ This project aims to automate and streamline the railway ticket booking process.
    - Added proper validation, error dialogs, and SQL exception management across the application.
 
 ---
-
-## 📂 Project Structure
-
-src/
-├── DBConnection.java
-├── LoginFrame.java
-├── RegisterForm.java
-├── UserDashboard.java
-├── AdminDashboard.java
-├── BookingDialog.java
-├── CancelReservationFrame.java
-├── ReservationService.java
-├── UserDAO.java
-├── TrainDAO.java
-├── ReservationDAO.java
-└── model/
-├── User.java
-├── Train.java
-└── Reservation.java
-
-## 🛠️ How to Run
+##  How to Run
 
 1. **Set up the MySQL database:**
    - Create a database, e.g., `reservation_system`.
@@ -98,7 +78,7 @@ src/
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 - Users can register, book, view, and cancel train tickets with a user-friendly GUI.
 - Admins can manage trains and oversee reservations.
@@ -106,4 +86,4 @@ src/
 
 ---
 
-### 🎉 Enjoy using your Online Train Reservation System!
+###  Enjoy using your Online Train Reservation System!
