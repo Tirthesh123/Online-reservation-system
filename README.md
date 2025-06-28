@@ -74,8 +74,6 @@ src/
 ├── Train.java
 └── Reservation.java
 
----
-
 ## 🛠️ How to Run
 
 1. **Set up the MySQL database:**
